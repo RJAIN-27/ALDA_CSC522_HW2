@@ -1,0 +1,17 @@
+﻿City,Polution,Size,Precipitation,Label
+A,High,Large,Mild,N
+A,High,Large,Mild,N
+A,Low,Small,Low,N
+A,Low,Medium,High,N
+B,High,Meta,High,N
+B,High,Meta,Low,N
+B,Low,Large,Mild,Y
+B,Low,Small,High,Y
+B,High,Meta,Mild,Y
+B,High,Medium,High,Y
+B,High,Large,Mild,Y
+B,High,Large,Low,N
+B,Low,Meta,Low,Y
+B,High,Small,Low,Y
+B,Low,Medium,High,N
+B,Low,Small,High,N
